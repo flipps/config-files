@@ -15,3 +15,4 @@ set noswapfile
 set colorcolumn=80
 set showtabline=2
 set cursorline
+let NERDTreeShowHidden=1
