@@ -1,7 +1,8 @@
 " Leader key
 let g:mapleader="\<Space>"
 
-syntax enable
+syntax on
+set nocompatible
 set hidden
 set encoding=utf-8
 set ruler
@@ -15,4 +16,5 @@ set noswapfile
 set colorcolumn=80
 set showtabline=2
 set cursorline
+filetype plugin on
 let NERDTreeShowHidden=1
